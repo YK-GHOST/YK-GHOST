@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YK-GHOST
-- 👀 I’m interested in Web-Development & Creative Development
+- 👀 I’m interested in Creating Scalable Software System & Video Games
 - 🌱 I’m currently learning Backend Web Development
 - 📫 How to reach me yogeshkantiwal20@gmail.com
 
