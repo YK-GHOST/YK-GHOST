@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YK-GHOST
-- 👀 I’m interested in Creating Scalable Software System & Video Games
-- 🌱 I’m currently learning Backend Web Development
+- 👀 I’m interested in Creating Scalable Software Systems & Video Games
+- 🌱 I’m currently learning Software Architecture 
 - 📫 How to reach me yogeshkantiwal20@gmail.com
 
 <!---
